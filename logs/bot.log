@@ -1,0 +1,298 @@
+[2025-06-06 22:01:21,970] ERROR: Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x000002959A636E50>
+[2025-06-06 22:01:21,972] ERROR: Unclosed connector
+connections: ['deque([(<aiohttp.client_proto.ResponseHandler object at 0x000002959A207A80>, 413918.281)])']
+connector: <aiohttp.connector.TCPConnector object at 0x000002959A636B50>
+[2025-06-06 22:57:46,259] ERROR: Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x0000016F1E7AADD0>
+[2025-06-06 22:57:46,260] ERROR: Unclosed connector
+connections: ['deque([(<aiohttp.client_proto.ResponseHandler object at 0x0000016F1E79C7C0>, 417301.593)])']
+connector: <aiohttp.connector.TCPConnector object at 0x0000016F1E7AAB90>
+[2025-06-06 22:59:45,509] INFO: Start polling
+[2025-06-06 22:59:45,557] INFO: Run polling for bot @Weather_dashaaaa_bot id=8026232062 - 'Weather_dashaaa_bot'
+[2025-06-06 23:00:09,166] INFO: Message from 1167846188 (Dasha): /start
+[2025-06-06 23:00:09,367] INFO: Update id=991645259 is handled. Duration 217 ms by bot id=8026232062
+[2025-06-06 23:00:14,457] INFO: Update id=991645260 is handled. Duration 250 ms by bot id=8026232062
+[2025-06-06 23:00:20,033] INFO: Message from 1167846188 (Dasha): Moscow
+[2025-06-06 23:00:20,098] INFO: Update id=991645261 is handled. Duration 109 ms by bot id=8026232062
+[2025-06-06 23:00:27,707] INFO: Message from 1167846188 (Dasha): Dasha_loh
+[2025-06-06 23:00:27,818] INFO: Update id=991645262 is handled. Duration 139 ms by bot id=8026232062
+[2025-06-06 23:00:31,432] INFO: Message from 1167846188 (Dasha): \u26c5\ufe0f Current Weather
+[2025-06-06 23:00:31,716] INFO: Update id=991645263 is handled. Duration 282 ms by bot id=8026232062
+[2025-06-06 23:00:34,895] INFO: Message from 1167846188 (Dasha): \u2699\ufe0f Settings
+[2025-06-06 23:00:35,184] INFO: Update id=991645264 is handled. Duration 405 ms by bot id=8026232062
+[2025-06-06 23:00:38,723] INFO: Message from 1167846188 (Dasha): Edit data
+[2025-06-06 23:00:38,951] INFO: Update id=991645265 is handled. Duration 266 ms by bot id=8026232062
+[2025-06-06 23:00:40,595] INFO: Message from 1167846188 (Dasha): Change City
+[2025-06-06 23:00:40,665] INFO: Update id=991645266 is handled. Duration 94 ms by bot id=8026232062
+[2025-06-06 23:00:46,808] INFO: Message from 1167846188 (Dasha): London
+[2025-06-06 23:00:46,939] INFO: Update id=991645267 is handled. Duration 280 ms by bot id=8026232062
+[2025-06-06 23:00:50,914] INFO: Message from 1167846188 (Dasha): \u21a9\ufe0f Back
+[2025-06-06 23:00:50,983] INFO: Update id=991645268 is handled. Duration 125 ms by bot id=8026232062
+[2025-06-06 23:00:51,752] INFO: Message from 1167846188 (Dasha): \u26c5\ufe0f Current Weather
+[2025-06-06 23:00:52,001] INFO: Update id=991645269 is handled. Duration 266 ms by bot id=8026232062
+[2025-06-06 23:00:56,257] INFO: Message from 1167846188 (Dasha): \u2699\ufe0f Settings
+[2025-06-06 23:00:56,329] INFO: Update id=991645270 is handled. Duration 77 ms by bot id=8026232062
+[2025-06-06 23:00:57,667] INFO: Message from 1167846188 (Dasha): Edit data
+[2025-06-06 23:00:57,824] INFO: Update id=991645271 is handled. Duration 202 ms by bot id=8026232062
+[2025-06-06 23:00:59,011] INFO: Message from 1167846188 (Dasha): Change Name
+[2025-06-06 23:00:59,086] INFO: Update id=991645272 is handled. Duration 109 ms by bot id=8026232062
+[2025-06-06 23:01:05,430] INFO: Message from 1167846188 (Dasha): Dasha_ne_loh
+[2025-06-06 23:01:05,541] INFO: Update id=991645273 is handled. Duration 156 ms by bot id=8026232062
+[2025-06-06 23:01:10,649] INFO: Message from 1167846188 (Dasha): Edit data
+[2025-06-06 23:01:10,744] INFO: Update id=991645274 is handled. Duration 108 ms by bot id=8026232062
+[2025-06-06 23:01:11,624] INFO: Message from 1167846188 (Dasha): Change Language
+[2025-06-06 23:01:11,690] INFO: Update id=991645275 is handled. Duration 92 ms by bot id=8026232062
+[2025-06-06 23:01:13,226] INFO: Update id=991645276 is handled. Duration 234 ms by bot id=8026232062
+[2025-06-06 23:01:15,160] INFO: Message from 1167846188 (Dasha): \u26c5\ufe0f Погода сейчас
+[2025-06-06 23:01:15,707] INFO: Update id=991645277 is handled. Duration 561 ms by bot id=8026232062
+[2025-06-06 23:01:32,477] INFO: Message from 1167846188 (Dasha): \u2699\ufe0f Настройки
+[2025-06-06 23:01:32,642] INFO: Update id=991645278 is handled. Duration 204 ms by bot id=8026232062
+[2025-06-06 23:01:35,018] INFO: Message from 1167846188 (Dasha): \u2139\ufe0f Помощь
+[2025-06-06 23:01:35,085] INFO: Update id=991645279 is handled. Duration 108 ms by bot id=8026232062
+[2025-06-06 23:01:37,421] INFO: Message from 1167846188 (Dasha): /help
+[2025-06-06 23:01:37,468] INFO: Update id=991645280 is not handled. Duration 46 ms by bot id=8026232062
+[2025-06-06 23:01:37,469] ERROR: Cause exception while process update id=991645280 by bot id=8026232062
+TelegramBadRequest: Telegram server says - Bad Request: message text is empty
+Traceback (most recent call last):
+  File "C:\Users\AsusUser\PycharmProjects\WeatherBot\venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 309, in _process_update
+    response = await self.feed_update(bot, update, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\AsusUser\PycharmProjects\WeatherBot\venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 158, in feed_update
+    response = await self.update.wrap_outer_middleware(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\AsusUser\PycharmProjects\WeatherBot\venv\Lib\site-packages\aiogram\dispatcher\middlewares\error.py", line 25, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\AsusUser\PycharmProjects\WeatherBot\venv\Lib\site-packages\aiogram\dispatcher\middlewares\user_context.py", line 56, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\AsusUser\PycharmProjects\WeatherBot\venv\Lib\site-packages\aiogram\fsm\middleware.py", line 42, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\AsusUser\PycharmProjects\WeatherBot\venv\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\AsusUser\PycharmProjects\WeatherBot\venv\Lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "C:\Users\AsusUser\PycharmProjects\WeatherBot\venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 276, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\AsusUser\PycharmProjects\WeatherBot\venv\Lib\site-packages\aiogram\dispatcher\router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\AsusUser\PycharmProjects\WeatherBot\venv\Lib\site-packages\aiogram\dispatcher\router.py", line 141, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\AsusUser\PycharmProjects\WeatherBot\venv\Lib\site-packages\aiogram\dispatcher\router.py", line 174, in _propagate_event
+    response = await router.propagate_event(update_type=update_type, event=event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\AsusUser\PycharmProjects\WeatherBot\venv\Lib\site-packages\aiogram\dispatcher\router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\AsusUser\PycharmProjects\WeatherBot\venv\Lib\site-packages\aiogram\dispatcher\router.py", line 141, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\AsusUser\PycharmProjects\WeatherBot\venv\Lib\site-packages\aiogram\dispatcher\router.py", line 166, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\AsusUser\PycharmProjects\WeatherBot\venv\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\AsusUser\PycharmProjects\WeatherBot\middleware\logger.py", line 18, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\AsusUser\PycharmProjects\WeatherBot\venv\Lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "C:\Users\AsusUser\PycharmProjects\WeatherBot\handlers\basic.py", line 16, in help_handler
+    await message.answer(t("help", message.from_user.id))
+  File "C:\Users\AsusUser\PycharmProjects\WeatherBot\venv\Lib\site-packages\aiogram\methods\base.py", line 84, in emit
+    return await bot(self)
+           ^^^^^^^^^^^^^^^
+  File "C:\Users\AsusUser\PycharmProjects\WeatherBot\venv\Lib\site-packages\aiogram\client\bot.py", line 478, in __call__
+    return await self.session(self, method, timeout=request_timeout)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\AsusUser\PycharmProjects\WeatherBot\venv\Lib\site-packages\aiogram\client\session\base.py", line 254, in __call__
+    return cast(TelegramType, await middleware(bot, method))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\AsusUser\PycharmProjects\WeatherBot\venv\Lib\site-packages\aiogram\client\session\aiohttp.py", line 185, in make_request
+    response = self.check_response(
+               ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\AsusUser\PycharmProjects\WeatherBot\venv\Lib\site-packages\aiogram\client\session\base.py", line 120, in check_response
+    raise TelegramBadRequest(method=method, message=description)
+aiogram.exceptions.TelegramBadRequest: Telegram server says - Bad Request: message text is empty
+[2025-06-06 23:01:48,193] INFO: Message from 1167846188 (Dasha): \u21a9\ufe0f Назад
+[2025-06-06 23:01:48,262] INFO: Update id=991645281 is handled. Duration 141 ms by bot id=8026232062
+[2025-06-06 23:01:50,028] INFO: Message from 1167846188 (Dasha): \u2699\ufe0f Настройки
+[2025-06-06 23:01:50,144] INFO: Update id=991645282 is handled. Duration 343 ms by bot id=8026232062
+[2025-06-06 23:01:51,105] INFO: Message from 1167846188 (Dasha): \U0001f538 Изменить данные
+[2025-06-06 23:01:51,195] INFO: Update id=991645283 is handled. Duration 202 ms by bot id=8026232062
+[2025-06-06 23:01:52,560] INFO: Message from 1167846188 (Dasha): \U0001f538 Сменить язык
+[2025-06-06 23:01:52,631] INFO: Update id=991645284 is handled. Duration 93 ms by bot id=8026232062
+[2025-06-06 23:01:53,759] INFO: Update id=991645285 is handled. Duration 218 ms by bot id=8026232062
+[2025-06-06 23:01:55,515] INFO: Message from 1167846188 (Dasha): \u2699\ufe0f Settings
+[2025-06-06 23:01:55,624] INFO: Update id=991645286 is handled. Duration 141 ms by bot id=8026232062
+[2025-06-06 23:02:00,289] INFO: Message from 1167846188 (Dasha): \u2139\ufe0f Help
+[2025-06-06 23:02:00,468] INFO: Update id=991645287 is handled. Duration 266 ms by bot id=8026232062
+[2025-06-06 23:03:11,759] INFO: Message from 1167846188 (Dasha): /help
+[2025-06-06 23:03:11,807] INFO: Update id=991645288 is not handled. Duration 61 ms by bot id=8026232062
+[2025-06-06 23:03:11,807] ERROR: Cause exception while process update id=991645288 by bot id=8026232062
+TelegramBadRequest: Telegram server says - Bad Request: message text is empty
+Traceback (most recent call last):
+  File "C:\Users\AsusUser\PycharmProjects\WeatherBot\venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 309, in _process_update
+    response = await self.feed_update(bot, update, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\AsusUser\PycharmProjects\WeatherBot\venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 158, in feed_update
+    response = await self.update.wrap_outer_middleware(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\AsusUser\PycharmProjects\WeatherBot\venv\Lib\site-packages\aiogram\dispatcher\middlewares\error.py", line 25, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\AsusUser\PycharmProjects\WeatherBot\venv\Lib\site-packages\aiogram\dispatcher\middlewares\user_context.py", line 56, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\AsusUser\PycharmProjects\WeatherBot\venv\Lib\site-packages\aiogram\fsm\middleware.py", line 42, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\AsusUser\PycharmProjects\WeatherBot\venv\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\AsusUser\PycharmProjects\WeatherBot\venv\Lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "C:\Users\AsusUser\PycharmProjects\WeatherBot\venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 276, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\AsusUser\PycharmProjects\WeatherBot\venv\Lib\site-packages\aiogram\dispatcher\router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\AsusUser\PycharmProjects\WeatherBot\venv\Lib\site-packages\aiogram\dispatcher\router.py", line 141, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\AsusUser\PycharmProjects\WeatherBot\venv\Lib\site-packages\aiogram\dispatcher\router.py", line 174, in _propagate_event
+    response = await router.propagate_event(update_type=update_type, event=event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\AsusUser\PycharmProjects\WeatherBot\venv\Lib\site-packages\aiogram\dispatcher\router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\AsusUser\PycharmProjects\WeatherBot\venv\Lib\site-packages\aiogram\dispatcher\router.py", line 141, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\AsusUser\PycharmProjects\WeatherBot\venv\Lib\site-packages\aiogram\dispatcher\router.py", line 166, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\AsusUser\PycharmProjects\WeatherBot\venv\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\AsusUser\PycharmProjects\WeatherBot\middleware\logger.py", line 18, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\AsusUser\PycharmProjects\WeatherBot\venv\Lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "C:\Users\AsusUser\PycharmProjects\WeatherBot\handlers\basic.py", line 16, in help_handler
+    await message.answer(t("help", message.from_user.id))
+  File "C:\Users\AsusUser\PycharmProjects\WeatherBot\venv\Lib\site-packages\aiogram\methods\base.py", line 84, in emit
+    return await bot(self)
+           ^^^^^^^^^^^^^^^
+  File "C:\Users\AsusUser\PycharmProjects\WeatherBot\venv\Lib\site-packages\aiogram\client\bot.py", line 478, in __call__
+    return await self.session(self, method, timeout=request_timeout)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\AsusUser\PycharmProjects\WeatherBot\venv\Lib\site-packages\aiogram\client\session\base.py", line 254, in __call__
+    return cast(TelegramType, await middleware(bot, method))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\AsusUser\PycharmProjects\WeatherBot\venv\Lib\site-packages\aiogram\client\session\aiohttp.py", line 185, in make_request
+    response = self.check_response(
+               ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\AsusUser\PycharmProjects\WeatherBot\venv\Lib\site-packages\aiogram\client\session\base.py", line 120, in check_response
+    raise TelegramBadRequest(method=method, message=description)
+aiogram.exceptions.TelegramBadRequest: Telegram server says - Bad Request: message text is empty
+[2025-06-06 23:03:20,524] INFO: Message from 1167846188 (Dasha): /weather
+[2025-06-06 23:03:20,756] INFO: Update id=991645289 is handled. Duration 250 ms by bot id=8026232062
+[2025-06-06 23:03:24,842] INFO: Message from 1167846188 (Dasha): /language
+[2025-06-06 23:03:24,999] INFO: Update id=991645290 is handled. Duration 188 ms by bot id=8026232062
+[2025-06-06 23:03:26,451] INFO: Update id=991645291 is handled. Duration 311 ms by bot id=8026232062
+[2025-06-06 23:03:31,175] INFO: Message from 1167846188 (Dasha): /reset
+[2025-06-06 23:03:31,365] INFO: Update id=991645292 is handled. Duration 233 ms by bot id=8026232062
+[2025-06-06 23:03:39,378] INFO: Message from 1167846188 (Dasha): /start
+[2025-06-06 23:03:39,487] INFO: Update id=991645293 is handled. Duration 281 ms by bot id=8026232062
+[2025-06-06 23:03:51,511] INFO: Message from 1167846188 (Dasha): Москва
+[2025-06-06 23:03:51,662] INFO: Update id=991645294 is handled. Duration 187 ms by bot id=8026232062
+[2025-06-06 23:03:55,606] INFO: Message from 1167846188 (Dasha): Даша
+[2025-06-06 23:03:55,792] INFO: Update id=991645295 is handled. Duration 250 ms by bot id=8026232062
+[2025-06-06 23:03:58,176] INFO: Message from 1167846188 (Dasha): \u2699\ufe0f Настройки
+[2025-06-06 23:03:58,249] INFO: Update id=991645296 is handled. Duration 93 ms by bot id=8026232062
+[2025-06-06 23:04:00,252] INFO: Message from 1167846188 (Dasha): \u2139\ufe0f Помощь
+[2025-06-06 23:04:00,317] INFO: Update id=991645297 is handled. Duration 108 ms by bot id=8026232062
+[2025-06-06 23:06:39,695] INFO: Start polling
+[2025-06-06 23:06:39,755] INFO: Run polling for bot @Weather_dashaaaa_bot id=8026232062 - 'Weather_dashaaa_bot'
+[2025-06-06 23:06:40,029] INFO: Message from 1167846188 (Dasha): /start
+[2025-06-06 23:06:40,210] INFO: Update id=991645298 is handled. Duration 186 ms by bot id=8026232062
+[2025-06-06 23:06:49,477] INFO: Message from 1167846188 (Dasha): /help
+[2025-06-06 23:06:49,555] INFO: Update id=991645299 is handled. Duration 92 ms by bot id=8026232062
+[2025-06-06 23:06:54,026] INFO: Message from 1167846188 (Dasha): \u2699\ufe0f Настройки
+[2025-06-06 23:06:54,138] INFO: Update id=991645300 is handled. Duration 125 ms by bot id=8026232062
+[2025-06-06 23:06:55,091] INFO: Message from 1167846188 (Dasha): \u2139\ufe0f Помощь
+[2025-06-06 23:06:55,169] INFO: Update id=991645301 is handled. Duration 125 ms by bot id=8026232062
+[2025-06-06 23:07:05,982] INFO: Message from 1167846188 (Dasha): сука ты
+[2025-06-06 23:07:06,069] INFO: Update id=991645302 is handled. Duration 125 ms by bot id=8026232062
+[2025-06-06 23:08:35,128] INFO: Start polling
+[2025-06-06 23:08:35,176] INFO: Run polling for bot @Weather_dashaaaa_bot id=8026232062 - 'Weather_dashaaa_bot'
+[2025-06-06 23:08:37,293] INFO: Message from 1167846188 (Dasha): /start
+[2025-06-06 23:08:37,480] INFO: Update id=991645303 is handled. Duration 202 ms by bot id=8026232062
+[2025-06-06 23:08:39,644] INFO: Message from 1167846188 (Dasha): \u2699\ufe0f Настройки
+[2025-06-06 23:08:39,926] INFO: Update id=991645304 is handled. Duration 344 ms by bot id=8026232062
+[2025-06-06 23:08:40,778] INFO: Message from 1167846188 (Dasha): \u2139\ufe0f Помощь
+[2025-06-06 23:08:40,860] INFO: Update id=991645305 is handled. Duration 140 ms by bot id=8026232062
+[2025-06-06 23:09:48,315] INFO: Start polling
+[2025-06-06 23:09:48,364] INFO: Run polling for bot @Weather_dashaaaa_bot id=8026232062 - 'Weather_dashaaa_bot'
+[2025-06-06 23:09:48,429] INFO: Message from 1167846188 (Dasha): /start
+[2025-06-06 23:09:48,436] INFO: Message from 1167846188 (Dasha): /start
+[2025-06-06 23:09:48,602] INFO: Update id=991645306 is handled. Duration 186 ms by bot id=8026232062
+[2025-06-06 23:09:48,623] INFO: Update id=991645307 is handled. Duration 202 ms by bot id=8026232062
+[2025-06-06 23:09:50,475] INFO: Message from 1167846188 (Dasha): \u2699\ufe0f Настройки
+[2025-06-06 23:09:50,601] INFO: Update id=991645308 is handled. Duration 125 ms by bot id=8026232062
+[2025-06-06 23:09:51,561] INFO: Message from 1167846188 (Dasha): \u2139\ufe0f Помощь
+[2025-06-06 23:09:51,675] INFO: Update id=991645309 is handled. Duration 188 ms by bot id=8026232062
+[2025-06-06 23:17:50,666] INFO: Start polling
+[2025-06-06 23:17:50,711] INFO: Run polling for bot @Weather_dashaaaa_bot id=8026232062 - 'Weather_dashaaa_bot'
+[2025-06-06 23:17:50,770] INFO: Message from 1167846188 (Dasha): /start
+[2025-06-06 23:17:50,949] INFO: Update id=991645310 is handled. Duration 186 ms by bot id=8026232062
+[2025-06-06 23:17:52,497] INFO: Message from 1167846188 (Dasha): \u2699\ufe0f Настройки
+[2025-06-06 23:17:52,584] INFO: Update id=991645311 is handled. Duration 93 ms by bot id=8026232062
+[2025-06-06 23:17:53,545] INFO: Message from 1167846188 (Dasha): \u2139\ufe0f Помощь
+[2025-06-06 23:17:53,614] INFO: Update id=991645312 is handled. Duration 92 ms by bot id=8026232062
+[2025-06-06 23:17:55,437] INFO: Message from 1167846188 (Dasha): /help
+[2025-06-06 23:17:55,508] INFO: Update id=991645313 is handled. Duration 79 ms by bot id=8026232062
+[2025-06-06 23:18:17,518] INFO: Message from 1167846188 (Dasha): \u21a9\ufe0f Назад
+[2025-06-06 23:18:17,630] INFO: Update id=991645314 is handled. Duration 266 ms by bot id=8026232062
+[2025-06-06 23:18:22,465] INFO: Message from 1167846188 (Dasha): \u2699\ufe0f Настройки
+[2025-06-06 23:18:22,569] INFO: Update id=991645315 is handled. Duration 108 ms by bot id=8026232062
+[2025-06-06 23:19:08,446] INFO: Start polling
+[2025-06-06 23:19:08,497] INFO: Run polling for bot @Weather_dashaaaa_bot id=8026232062 - 'Weather_dashaaa_bot'
+[2025-06-06 23:19:08,553] INFO: Message from 1167846188 (Dasha): /start
+[2025-06-06 23:19:08,715] INFO: Update id=991645316 is handled. Duration 171 ms by bot id=8026232062
+[2025-06-06 23:19:10,427] INFO: Message from 1167846188 (Dasha): \u2699\ufe0f Настройки
+[2025-06-06 23:19:10,717] INFO: Update id=991645317 is handled. Duration 391 ms by bot id=8026232062
+[2025-06-06 23:19:11,519] INFO: Message from 1167846188 (Dasha): \u2139\ufe0f Помощь
+[2025-06-06 23:19:11,667] INFO: Update id=991645318 is handled. Duration 266 ms by bot id=8026232062
+[2025-06-06 23:19:23,570] INFO: Message from 1167846188 (Dasha): да пошел ты
+[2025-06-06 23:19:23,655] INFO: Update id=991645319 is handled. Duration 140 ms by bot id=8026232062
+[2025-06-06 23:19:29,216] INFO: Message from 1167846188 (Dasha): \u2139\ufe0f Помощь
+[2025-06-06 23:19:29,330] INFO: Update id=991645320 is handled. Duration 202 ms by bot id=8026232062
+[2025-06-06 23:19:30,498] INFO: Message from 1167846188 (Dasha): \u21a9\ufe0f Назад
+[2025-06-06 23:19:30,591] INFO: Update id=991645321 is handled. Duration 141 ms by bot id=8026232062
+[2025-06-06 23:21:19,618] INFO: Message from 1167846188 (Dasha): холд он я в гпт закину
+[2025-06-06 23:21:19,686] INFO: Update id=991645322 is handled. Duration 125 ms by bot id=8026232062
+[2025-06-06 23:22:20,382] INFO: Start polling
+[2025-06-06 23:22:20,426] INFO: Run polling for bot @Weather_dashaaaa_bot id=8026232062 - 'Weather_dashaaa_bot'
+[2025-06-06 23:22:20,485] INFO: Message from 1167846188 (Dasha): /start
+[2025-06-06 23:22:20,662] INFO: Update id=991645323 is handled. Duration 188 ms by bot id=8026232062
+[2025-06-06 23:22:23,469] INFO: Message from 1167846188 (Dasha): \u2699\ufe0f Настройки
+[2025-06-06 23:22:23,575] INFO: Update id=991645324 is handled. Duration 219 ms by bot id=8026232062
+[2025-06-06 23:22:24,590] INFO: Message from 1167846188 (Dasha): \u2139\ufe0f Помощь
+[2025-06-06 23:22:24,757] INFO: Update id=991645325 is handled. Duration 202 ms by bot id=8026232062
+[2025-06-06 23:22:29,856] INFO: Message from 1167846188 (Dasha): СЮДААААА ЛУТ
+[2025-06-06 23:22:30,079] INFO: Update id=991645326 is handled. Duration 358 ms by bot id=8026232062
